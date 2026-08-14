@@ -1,4 +1,4 @@
-name: can_generator_t5
+ name: can_generator_t5
 description: CAN Generator for VW T5
 version: 1.0.0+1
 
